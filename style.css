@@ -28,14 +28,8 @@ header{
 
 }
 .div1{
-   top:30px;
+ margin-top: 75px;
     text-align: center;    
 }
    
-footer p{
-    padding: 1% 10%;
-    text-align: center;
-    border-radius: nullpx;   
-}
-
 
